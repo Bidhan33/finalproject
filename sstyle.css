@@ -401,9 +401,9 @@ a {
     letter-spacing: 1px; 
     transition: color 0.3s ease-in-out; }
 
-/* Add a hover effect for additional interactivity */
+
 .a-info h2:hover {
-    color: #8a2be2; /* Darker purple color on hover */
+    color: #8a2be2; 
 }
 
 
@@ -433,25 +433,24 @@ a {
 
 body {
     line-height: 1.6;
-    color: #fff; /* Default text color for the body */
-}
+    color: #fff; 
 
 .text-overlay {
-    /* Other styles */
+    
 
-    /* Updated styles for better readability */
+    
     text-align: justify;
     font-family: 'Verdana', sans-serif;
     border: 2px solid #000;
     padding: 10px;
-    color: #eee; /* Set the text color for better contrast */
+    color: #eee; 
 }
 
 .footer,
 .f-header p,
 .c-symbol,
 .copy {
-    color: #fff; /* Set the text color for better contrast */
+    color: #fff; 
 }
 
 .copy .title,
@@ -462,13 +461,13 @@ body {
     color: #e6e6e6; 
 }
 
-/* Add these styles for better paragraph alignment and font styling */
+
 
 p {
     text-align: justify;
     font-family: 'Inter', sans-serif;
-    font-size: 1rem; /* Adjust the font size as needed */
-    color: #ddd; /* Set the default text color for paragraphs */
-    margin-bottom: 1rem; /* Add some spacing between paragraphs */
+    font-size: 1rem; 
+    color: #ddd; 
+    margin-bottom: 1rem; 
 }
 
